@@ -1,0 +1,18 @@
+compare a person's region to their smoking habit
+compare a person's age to their smoking habit
+see if number of children affects a person's bmi
+see how a person's region and age affects a person's bmi
+see if region can determine number of kids
+
+
+[x]open the csv file to view its contents
+[x]save the file in a dicitonary with names as key arguments
+[x]store a fiew key factors:
+    [NR]person with the highest cost 
+    [x]number of people in each region 
+    [x]% of smokers in the set - just learned f strings in python
+[x]count the number of smokers in each region
+    [x] create a dictionary key word as each region and add client if they smoke into a list
+[x]write a function that creates categories for number of children and then store bmis
+    [x]write a function that average out bmis in each category
+
